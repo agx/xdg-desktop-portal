@@ -23,8 +23,8 @@
       org.freedesktop.impl.portal.Usb:
       @short_description: USB portal backend interface
 
-      This portal lets applications register global shortcuts so they can
-      act regardless of the system state upon an input event.
+      This interface lets sandboxed applications monitor and request
+      access to connected USB devices.
 
       This documentation describes version 1 of this interface.
   -->
